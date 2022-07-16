@@ -2,11 +2,16 @@
 layout: cv
 title: Daniel Bagley's Resume
 ---
+
+<p align="center">
 # Daniel Bagley
 _Student of Statistics creating exceptional value in the workplace through careful analysis and bold innovation_ 
 
 
-<a href="https://www.linkedin.com/in/daniel-bagley">LinkedIn</a> | (801) 717 7585 | danielbagely@gmail.com | <a href="https://github.com/danielstats">GitHub</a>
+ <a href="https://www.linkedin.com/in/daniel-bagley">LinkedIn</a> | (801) 717 7585 | danielbagely@gmail.com | <a href="https://github.com/danielstats">GitHub</a>
+	
+</p>
+
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
@@ -27,7 +32,9 @@ __Lone Peak High School__, Highland UT
 
 ## Work Experience
 `April 2021 - April 2024`
-_Brigham Young University-Idaho Mathematics Department_, 	Rexburg, ID
+
+_Brigham Young University-Idaho Mathematics Department_, Rexburg, ID
+
 __Teaching Assistant__
 
 - Collaborated with a team of three to design and teach new _MATH 221D_ "Introductory Statistics With R" course
@@ -42,7 +49,9 @@ __Teaching Assistant__
 
 
 `January 2021 - April 2024`
+
 _Brigham Young University-Idaho Religion Department_, 	Rexburg, ID
+
 __Teaching Assistant__
 - Managed database of approximately 500 students' data (homework, grades, etc.)
 - Assisted Professors in designing, implementing and managing courses in Canvas LMS
@@ -50,7 +59,9 @@ __Teaching Assistant__
 - - Implemented new procedures to save department TAs 100+ hours per semester, including developing new training procedures and documentation
 	
 `January 2018 - March 2020`
+
 _Church of Jesus Christ of Latter-day Saints_, Orlando, FL
+
 __Full-Time Volunteer Representative__
 - Coached and mentored teams (6-12) of full-time volunteers by creating unity, emphasizing individual abilities, and promoting personal growth
 - Collected and interpreted team data to plan, conduct, and speak at weekly training meetings
